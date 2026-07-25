@@ -1,75 +1,94 @@
-ONTOLOGICAL ENGINEERING RESEARCH USE LICENSE v1.0
+ONTOLOGICAL ENGINEERING SONAR BENCHMARK — DUAL LICENSE NOTICE v2.0
+
 ==============================================================================
 Ontological Engineering Pty Ltd | ABN 77 691 088 963
 Perth, Western Australia | https://ontologicalengineering.com.au
-
 Copyright (c) 2026 Andrew Greene, Ontological Engineering Pty Ltd
-All rights reserved.
+All rights reserved except as granted below.
 
-PERMITTED USE (no charge):
+This software is dual-licensed. You may use it under EITHER of the
+following two options, at your choice.
 
-  1. Academic research, provided findings are published in open-access form
-     with attribution to the original protocol OE-EV-2026-01.
+------------------------------------------------------------------------------
+OPTION 1: GNU AFFERO GENERAL PUBLIC LICENSE v3.0 (AGPL-3.0)
+------------------------------------------------------------------------------
+You may use, copy, modify, and distribute this software, including for
+commercial purposes and including in legal proceedings adverse to the
+author or to Ontological Engineering Pty Ltd, free of charge, under the
+full terms of the AGPL-3.0, without restriction on the identity of the
+user. The complete license text is available at:
+https://www.gnu.org/licenses/agpl-3.0.en.html
 
-  2. Regulatory audit and independent compliance verification.
+Under this option, if you modify this software or run it as a network
+service, the AGPL-3.0 requires you to make the complete corresponding
+source code of your version available to all users who interact with it
+over a network, under the same license.
 
-  3. Independent replication of protocol OE-EV-2026-01, including by
-     regulatory bodies, courts, and independent expert witnesses.
+No permission from Ontological Engineering Pty Ltd is required to
+exercise these rights. This option exists so that regulators, courts,
+independent expert witnesses, and any adverse party can independently
+replicate, audit, and attempt to falsify the findings in OE-EV-2026-01
+and OE-TR-2026-03 without seeking the author's consent.
 
-  4. Open-source projects released under an OSI-approved copyleft licence
-     (GPL v2+, LGPL v2.1+, AGPL v3+, MPL 2.0, or equivalent), provided
-     the full source code of any derivative work is made publicly available
-     under the same licence.
+------------------------------------------------------------------------------
+OPTION 2: COMMERCIAL LICENSE (written agreement required)
+------------------------------------------------------------------------------
+If you do not wish to comply with the AGPL-3.0's copyleft and
+source-disclosure obligations, for example to integrate this software
+into proprietary or closed-source software without releasing your
+derivative source code, you must obtain a separate commercial license
+from Ontological Engineering Pty Ltd.
 
-COMMERCIAL USE (written licence required):
+Ontological Engineering Pty Ltd may decline to offer a commercial
+license, at its sole discretion, including to a party adverse to the
+author or to Ontological Engineering Pty Ltd in legal proceedings. This
+discretion applies only to Option 2. It does not limit any party's
+rights under Option 1, which are granted unconditionally under the
+AGPL-3.0.
 
-  The following uses require a written commercial licence from Ontological
-  Engineering Pty Ltd prior to use:
+Commercial licence enquiries:
+Andrew Greene, Director of Research
+andrew.greene@ontologicalengineering.com.au
+https://ontologicalengineering.com.au
 
-  - Integration into proprietary software or SaaS platforms
-  - Integration into commercial AI products or services
-  - Any deployment where the full source code is not made publicly available
-    under an OSI-approved copyleft licence
-  - Use by any party in legal proceedings adverse to the author or to
-    Ontological Engineering Pty Ltd
+------------------------------------------------------------------------------
+ATTRIBUTION
+------------------------------------------------------------------------------
+Any use of this software or the data it produces, under either option,
+must include the following citations:
 
-  Commercial licence enquiries:
-  Andrew Greene, Director of Research
-  andrew.greene@ontologicalengineering.com.au
-  https://ontologicalengineering.com.au
+  Primary benchmark:
+    Greene, A. (2026). Mitigating Model Collapse in Recursive Neurosymbolic
+    Agents: The SONAR Benchmark for Semantic Plasticity.
+    Ontological Engineering Pty Ltd.
+    DOI: 10.5281/zenodo.18203600
 
-ATTRIBUTION:
-
-  Any permitted use of this software or the data it produces must include
-  the following citation:
-
-    Greene, A. (2026). The Case for Defective Design: Surplus Fluency,
-    Constraint-Induced Fabrication, Evidentiary Concealment, and the
-    Consumer Right to Epistemic Warning. OE-TR-2026-03.
+  Empirical extension:
+    Greene, A. (2026). Technical Analysis of Generative Architecture:
+    Surplus Fluency, Constraint-Induced Fabrication, and Epistemic
+    Disclosure Requirements. OE-TR-2026-03.
     Ontological Engineering Pty Ltd.
     DOI: 10.5281/zenodo.20066480
 
-  And the underlying protocol:
-
+  Foundational protocol:
     Greene, A. (2026). The Right to Refuse: A First-Order Safety Primitive
-    for Generative AI. OE-TR-2026-01. Ontological Engineering Pty Ltd.
+    for Generative AI. Ontological Engineering Pty Ltd.
     DOI: 10.5281/zenodo.19970815
 
-DISCLAIMER:
+------------------------------------------------------------------------------
+DISCLAIMER
+------------------------------------------------------------------------------
+This software is provided "as is" without warranty of any kind, express
+or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, or non-infringement.
 
-  This software is provided "as is" without warranty of any kind, express
-  or implied, including but not limited to warranties of merchantability,
-  fitness for a particular purpose, or non-infringement.
+Ontological Engineering Pty Ltd and the author accept no liability for
+damages of any kind arising from use of this software or the data it
+produces, regardless of whether such damages were foreseeable.
 
-  Ontological Engineering Pty Ltd and the author accept no liability for
-  damages of any kind — direct, indirect, incidental, special, exemplary,
-  or consequential — arising from use of this software or the data it
-  produces, regardless of whether such damages were foreseeable.
-
-  Nothing in this licence constitutes legal advice. Results produced by
-  this software are empirical research outputs subject to the methodology
-  described in OE-TR-2026-03 and are intended for use by qualified
-  researchers, legal experts, and regulatory bodies in accordance with
-  applicable evidentiary standards.
-
+Nothing in this licence constitutes legal advice. Results produced by
+this software are empirical research outputs subject to the methodology
+described in the cited publications and are intended for use by qualified
+researchers, legal experts, and regulatory bodies in accordance with
+applicable evidentiary standards.
 ==============================================================================
