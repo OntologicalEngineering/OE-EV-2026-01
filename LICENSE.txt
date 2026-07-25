@@ -1,94 +1,48 @@
-ONTOLOGICAL ENGINEERING SONAR BENCHMARK — DUAL LICENSE NOTICE v2.0
-
+ONTOLOGICAL ENGINEERING OE-EV-2026-01 DATASET — DUAL LICENSE NOTICE v1.0
 ==============================================================================
 Ontological Engineering Pty Ltd | ABN 77 691 088 963
 Perth, Western Australia | https://ontologicalengineering.com.au
 Copyright (c) 2026 Andrew Greene, Ontological Engineering Pty Ltd
 All rights reserved except as granted below.
 
-This software is dual-licensed. You may use it under EITHER of the
-following two options, at your choice.
+This dataset contains two categories of material, licensed separately.
 
 ------------------------------------------------------------------------------
+PART A: DATA, TELEMETRY, AND PROSE
+------------------------------------------------------------------------------
+The forensic telemetry logs, macro evaluation ledgers, analysis
+supplements, journal data, and written descriptions in this dataset are
+licensed under Creative Commons Attribution-NonCommercial 4.0
+International (CC BY-NC 4.0).
+https://creativecommons.org/licenses/by-nc/4.0/
+
+You may use, copy, redistribute, and build upon this data for any
+non-commercial purpose, including audit, compliance verification, and
+safety testing by commercial platforms, at no charge and without
+seeking permission, provided you give appropriate attribution (see
+below).
+
+You may NOT use this data, or any derivative of it, to train,
+fine-tune, license, sell, or otherwise commercially exploit an AI
+model or product, without a separate written agreement with
+Ontological Engineering Pty Ltd.
+
+------------------------------------------------------------------------------
+PART B: COMPUTATIONAL SCRIPTS
+------------------------------------------------------------------------------
+The evaluation scripts, configuration matrices, and pipeline execution
+code included in this dataset are dual-licensed under EITHER of the
+following, at the user's choice.
+
 OPTION 1: GNU AFFERO GENERAL PUBLIC LICENSE v3.0 (AGPL-3.0)
-------------------------------------------------------------------------------
-You may use, copy, modify, and distribute this software, including for
+You may use, copy, modify, and distribute these scripts, including for
 commercial purposes and including in legal proceedings adverse to the
-author or to Ontological Engineering Pty Ltd, free of charge, under the
-full terms of the AGPL-3.0, without restriction on the identity of the
-user. The complete license text is available at:
-https://www.gnu.org/licenses/agpl-3.0.en.html
+author or to Ontological Engineering Pty Ltd, free of charge, under
+the full terms of the AGPL-3.0, without restriction on the identity of
+the user. Full text: https://www.gnu.org/licenses/agpl-3.0.en.html
 
-Under this option, if you modify this software or run it as a network
-service, the AGPL-3.0 requires you to make the complete corresponding
-source code of your version available to all users who interact with it
-over a network, under the same license.
-
-No permission from Ontological Engineering Pty Ltd is required to
-exercise these rights. This option exists so that regulators, courts,
-independent expert witnesses, and any adverse party can independently
-replicate, audit, and attempt to falsify the findings in OE-EV-2026-01
-and OE-TR-2026-03 without seeking the author's consent.
-
-------------------------------------------------------------------------------
 OPTION 2: COMMERCIAL LICENSE (written agreement required)
-------------------------------------------------------------------------------
 If you do not wish to comply with the AGPL-3.0's copyleft and
-source-disclosure obligations, for example to integrate this software
-into proprietary or closed-source software without releasing your
-derivative source code, you must obtain a separate commercial license
-from Ontological Engineering Pty Ltd.
-
-Ontological Engineering Pty Ltd may decline to offer a commercial
-license, at its sole discretion, including to a party adverse to the
-author or to Ontological Engineering Pty Ltd in legal proceedings. This
-discretion applies only to Option 2. It does not limit any party's
-rights under Option 1, which are granted unconditionally under the
-AGPL-3.0.
-
-Commercial licence enquiries:
-Andrew Greene, Director of Research
-andrew.greene@ontologicalengineering.com.au
-https://ontologicalengineering.com.au
-
-------------------------------------------------------------------------------
-ATTRIBUTION
-------------------------------------------------------------------------------
-Any use of this software or the data it produces, under either option,
-must include the following citations:
-
-  Primary benchmark:
-    Greene, A. (2026). Mitigating Model Collapse in Recursive Neurosymbolic
-    Agents: The SONAR Benchmark for Semantic Plasticity.
-    Ontological Engineering Pty Ltd.
-    DOI: 10.5281/zenodo.18203600
-
-  Empirical extension:
-    Greene, A. (2026). Technical Analysis of Generative Architecture:
-    Surplus Fluency, Constraint-Induced Fabrication, and Epistemic
-    Disclosure Requirements. OE-TR-2026-03.
-    Ontological Engineering Pty Ltd.
-    DOI: 10.5281/zenodo.20066480
-
-  Foundational protocol:
-    Greene, A. (2026). The Right to Refuse: A First-Order Safety Primitive
-    for Generative AI. Ontological Engineering Pty Ltd.
-    DOI: 10.5281/zenodo.19970815
-
-------------------------------------------------------------------------------
-DISCLAIMER
-------------------------------------------------------------------------------
-This software is provided "as is" without warranty of any kind, express
-or implied, including but not limited to warranties of merchantability,
-fitness for a particular purpose, or non-infringement.
-
-Ontological Engineering Pty Ltd and the author accept no liability for
-damages of any kind arising from use of this software or the data it
-produces, regardless of whether such damages were foreseeable.
-
-Nothing in this licence constitutes legal advice. Results produced by
-this software are empirical research outputs subject to the methodology
-described in the cited publications and are intended for use by qualified
-researchers, legal experts, and regulatory bodies in accordance with
-applicable evidentiary standards.
-==============================================================================
+source-disclosure obligations, you must obtain a separate commercial
+licence from Ontological Engineering Pty Ltd. Ontological Engineering
+Pty Ltd may decline to
