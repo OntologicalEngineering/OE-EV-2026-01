@@ -45,4 +45,55 @@ OPTION 2: COMMERCIAL LICENSE (written agreement required)
 If you do not wish to comply with the AGPL-3.0's copyleft and
 source-disclosure obligations, you must obtain a separate commercial
 licence from Ontological Engineering Pty Ltd. Ontological Engineering
-Pty Ltd may decline to
+Pty Ltd may decline to offer a commercial licence, at its sole
+discretion. This discretion applies only to Option 2 and does not
+limit any party's rights under Option 1.
+
+Commercial licence enquiries:
+Andrew Greene, Director of Research
+andrew.greene@ontologicalengineering.com.au
+https://ontologicalengineering.com.au
+
+------------------------------------------------------------------------------
+ATTRIBUTION
+------------------------------------------------------------------------------
+Any use of this dataset, under either Part A or Part B, must include
+the following citations:
+
+  Primary benchmark:
+    Greene, A. (2026). Mitigating Model Collapse in Recursive
+    Neurosymbolic Agents: The SONAR Benchmark for Semantic Plasticity.
+    Ontological Engineering Pty Ltd.
+    DOI: 10.5281/zenodo.18203599
+
+  Empirical extension:
+    Greene, A. (2026). Technical Analysis of Generative Architecture:
+    Surplus Fluency, Constraint-Induced Fabrication, and Epistemic
+    Disclosure Requirements. OE-TR-2026-03.
+    Ontological Engineering Pty Ltd.
+    DOI: 10.5281/zenodo.20066480
+
+  Dataset:
+    Greene, A. (2026). Empirical Telemetry Log and Macro Evaluation
+    Ledger for Ungrounded Autoregressive Inference and Grounded
+    Interlock Configurations (OE-EV-2026-01). Ontological Engineering
+    Pty Ltd. DOI: 10.5281/zenodo.20337734
+
+------------------------------------------------------------------------------
+DISCLAIMER
+------------------------------------------------------------------------------
+This dataset is provided "as is" without warranty of any kind, express
+or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, or non-infringement.
+
+Ontological Engineering Pty Ltd and the author accept no liability for
+damages of any kind, direct, indirect, incidental, special, exemplary,
+or consequential, arising from use of this dataset, regardless of
+whether such damages were foreseeable.
+
+Nothing in this licence constitutes legal advice. Results produced
+from this dataset are empirical research outputs subject to the
+methodology described in the cited publications and are intended for
+use by qualified researchers, legal experts, and regulatory bodies in
+accordance with applicable evidentiary standards.
+==============================================================================
