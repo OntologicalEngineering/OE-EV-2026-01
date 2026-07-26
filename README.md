@@ -3,10 +3,10 @@
 Computational scripts for the empirical study documented in:
 OE-TR-2026-03 — Technical Analysis of Generative Architecture: Surplus
 Fluency, Constraint-Induced Fabrication, and Epistemic Disclosure
-Requirements**
+Requirements
 DOI: 10.5281/zenodo.20066480
 
-Full dataset and evidentiary package:**
+Full dataset and evidentiary package:
 DOI: 10.5281/zenodo.20337734
 
 Author: Andrew Greene
